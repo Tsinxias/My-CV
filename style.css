@@ -1,45 +1,3 @@
-<<<<<<< HEAD
-body {
-  font-family: Arial, sans-serif;
-}
-
-.container {
-  display: grid;
-  grid-template-columns: repeat(10; 1fr);
-  grid-template-rows: repeat(25; 1fr);
-  grid-gap: 5px;
-}
-
-.info-left {
-  grid-column: span 5;
-  grid-row: span 1;
-}
-
-.foto {
-  grid-column: span 5;
-  grid-row: span 1;
-}
-
-.section1, .section2, .section3 {
-  grid-column: span 10;
-  grid-row: span 1;
-  font-size: 25px;
-}
-
-.left-sec1 {
-  grid-column: span 1;
-  grid-row: span 1;
-}
-
-.right-sec1 {
-  grid-column: 2/span 8;
-  grid-row: span 1;
-}
-
-.element1 {
-  
-}
-=======
 body {
   font-family: Arial, sans-serif;
   background-image: url("http://www.560betmobile.com/wp-content/uploads/2016/05/560bet-mobile-background.jpg")
@@ -130,4 +88,3 @@ ul {
   grid-column: 3/span 2;
   grid-row: span 1;
 }
->>>>>>> 4d46400f984ccdd8266a61f26a96273be7554861
