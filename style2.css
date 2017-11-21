@@ -49,6 +49,11 @@ body {
   font-size: 200%;
   margin-top: 10%;
 }
+
+.fa {
+  color: #0489B1;
+}
+
 /*below*/
 .experience {
   float: left;
