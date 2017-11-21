@@ -54,6 +54,10 @@ body {
   color: #0489B1;
 }
 
+.fa:hover {
+  color: #00BFFF;
+}
+
 /*below*/
 .experience {
   float: left;
