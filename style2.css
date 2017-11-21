@@ -4,40 +4,52 @@ body {
   height: 100%;
   font-family: 'Monserrat', sans-serif;
   background-image: url("polaroid.png");
+  color: #0B3861;
 }
 
 .all {
   width: 85%;
   margin: auto;
   padding: 10px;
-}
-
-.infobox {
-  width: 45%;
-  margin: auto;
   border-radius: 1%;
-  border: 3px solid #04B45F;
+  border: 3px solid #04B4AE;
+}
+/*above*/
+.infobox {
+  width: 60%;
+  margin: auto;
   padding-left: 2%
   padding-right: 2%
 }
 
 .photo {
+  margin-left: 10%;
+  width: 20%;
   float: left;
-  margin-left: 7%;
-  margin-top: 1%;
 }
 
 .info-right {
-  height: 50%;
+  height: 40%;
   left: 0;
   right: 0;
   z-index: 1;
   font-size: 125%;
   padding-top: 0.25%;
-  padding-left: 20%;
-  margin-left: 10%;
 }
 
+.media {
+  border-radius: 1%;
+  border: 3px solid #0489B1;
+}
+
+.icon {
+  text-align: center;
+  padding-left: 17%;
+  justify-content: center;
+  font-size: 200%;
+  margin-top: 10%;
+}
+/*below*/
 .experience {
   float: left;
   text-align: left;
